@@ -16,5 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-azam-baig&show_icons=true&locale=en" alt="ali-azam-baig" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-azam-baig&" alt="ali-azam-baig" /></p>
 
