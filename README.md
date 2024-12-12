@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Ali Azam 👋</h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif
-" width="1500" />
-
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=0969DB&random=false&width=940&center=true&lines=Hey%2C+I'm+Ali+and+Welcome+to+my+Coding+world!;I'm+a+Front+end+Developer+from+Pakistan!;I'm+a+Ai+Chatbot+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
