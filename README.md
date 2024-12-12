@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Ai chatbot developer</h1>
+<h1 align="center">Hi , I'm Ali Ai chatbot developer 👋</h1>
 <h3 align="center">A passionate Ai-Chatbot developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-azam-baig&label=Profile%20views&color=0e75b6&style=flat" alt="ali-azam-baig" /> </p>
