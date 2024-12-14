@@ -90,62 +90,8 @@
     </td>
  </tr>
 </table>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1 align="center"> ⚡Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
 
 
-<table width="100" align="center">
-<tr>
-<td align='center' width="100">
-	<img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0078ff"> </td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-React/Next.js-0D1117?style=flat-square&logo=react&logoColor=0078ff"></td> </tr>
-<tr>	
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Tailwind CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=0078ff"></td>  <td align='center' width="300"><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=0078ff"></td>
-</tr>
-<tr>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Frontend Development-0D1117?style=flat-square&logo=frontend&logoColor=0078ff"></td> 
-	
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Backend Development-0D1117?style=flat-square&logo=backend&logoColor=0078ff"></td><td align='center' width="300"><img src="https://img.shields.io/badge/-Full Stack Development-0D1117?style=flat-square&logo=fullstack&logoColor=0078ff"></td
-</tr>
-<tr>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-AI Development-0D1117?style=flat-square&logo=ai&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Prompt Engineering-0D1117?style=flat-square&logo=promptengineering&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
-<tr>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Chatbot Development-0D1117?style=flat-square&logo=frontend&logoColor=0078ff"></td> 
-	
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Dialogflow-0D1117?style=flat-square&logo=backend&logoColor=0078ff"></td><td align='center' width="300"><img src="https://img.shields.io/badge/-Manychat-0D1117?style=flat-square&logo=fullstack&logoColor=0078ff"></td
-</tr>
-<tr>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Langchain🦜🔗-0D1117?style=flat-square&logo=ai&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Flowise-0D1117?style=flat-square&logo=promptengineering&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-LLM-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
-	</table>
- <br>
-<div align="center"><img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif"></div>
 
- 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
-
-  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="22" /> </h3>
-  <p align="center">
- <div align="center"  class="icons-social" style="margin-center: 10px;">
-<div>   
-    <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=0078FF" alt="Ayan Imran  Email"></a>
- <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078ff" alt="Ayan Imran Linkedin"></a><br>
-    <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=0078ff" alt="Ayan Imran Facebook"></a>
-    <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0078ff" alt="Ayan Imran Instagram"></a>
-    <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=0078ff" alt="Ayan Imran fiverr"></a>
-    <br>
-</div>
-</p>
-<!-- 	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug33n7MEbexO7H6OGTHOi9AR8P7a2" alt="GitRoll Profile Badge"/></a> 
