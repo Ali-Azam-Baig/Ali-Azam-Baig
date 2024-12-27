@@ -8,6 +8,42 @@
 </div>
 
 
+ ## About Me 👨‍💻
+  I'm an AI Chatbot and Web Developer with 1.5 years of experience in web development and AI solutions.
+
+  - 🚀 **Specializations**: AI Chatbots 🤖, MERN Stack Development,
+  - 🧠 **Technologies**: NLP, Dialogflow, Langchain 🦜🔗, Node.js, JavaScript, Python
+  - 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
+
+  ## 💡 Skills
+  - **AI Chatbot Development**: Dialogflow, Langchain, Flowise
+  - **Web Development**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+<br><br>
+
+
+
+• 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br><br>
+• 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br><br>
+• 🌊 ɪ'ᴍ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴅɪᴀʟᴏɢꜰʟᴏᴡ🤖  <br><br>
+• 💰 ʀɪꜱɪɴɢ ᴛᴀʟᴇɴᴛ ᴀᴛ ᴜᴘᴡᴏʀᴋ ✅. <br><br>
+• 📫 ʀᴇᴀᴄʜ ᴍᴇ ʟɪɴᴋᴇᴅɪɴ ᴅᴍ (ᴀʏᴀɴ ɪᴍʀᴀɴ). <br><br>
+
+
+
+
+<div align="center"><img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif"></div>
+
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
+  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="22" /> </h3>
+  <p align="center">
+ <div align="center"  class="icons-social" style="margin-center: 10px;">
+<div>   
+
+
 
 
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
@@ -88,6 +124,9 @@
     </td>
  </tr>
 </table>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
